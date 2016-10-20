@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica8</string>
+    <string name="Cantidad_M">Cantidad en Metros</string>
+    <string name="Cantidad_P">Cantidad en Pies</string>
+    <string name="Res">Resultados en: </string>
+    <string name="Mi">Millas</string>
+    <string name="P">Pilgadas</string>
+    <string name="M">Metros</string>
+    <string name="Y">Yardas</string>
+    <string name="Calc">Convertir y Sumar</string>
+</resources>
